@@ -20,3 +20,5 @@
 
 ## 결과
 최종탈락
+
+![0287_001_페이지_1](https://github.com/jdg824/2023_SW_AI_Contest/assets/80143957/11f4a17e-ee60-4c47-ab20-fdafc75398a2)
